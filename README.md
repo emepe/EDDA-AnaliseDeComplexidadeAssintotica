@@ -3,6 +3,7 @@
 - **Disciplina:** Estruturas de Dados e Análise de Algoritmos
 - **Aula:** 03 – Notação Assintótica
 - **Professor:** Alexandre de Oliveira
+- **Aluno:** Maria Paula P. Sousa - 12315841
 
 ***
 ## Exercício 1
